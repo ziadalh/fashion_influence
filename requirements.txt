@@ -1,0 +1,7 @@
+pandas==0.25.0
+tabulate==0.8.3
+torch==1.2.0
+numpy==1.17.3
+statsmodels==0.10.1
+tqdm==4.54.0
+scikit_learn==0.23.2
